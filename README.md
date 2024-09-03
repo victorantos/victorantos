@@ -2,7 +2,7 @@
 
 	- 🔭 I’m currently working on Sneos.com, Angjobs.com
 	- 🌱 I’m currently learning Python and exploring data science
-	- 👯 I’m looking to collaborate on Angjob and open-source projects
+	- 👯 I’m looking to collaborate on AngJobs and other open-source projects
 	- 🤔 I’m looking for an interesting project/job to work on, especially in web development or machine learning
 	- 💬 Ask me about project ideas, web development, or how to start learning Python!
 	- 📫 How to reach me: victorantos@gmail.com
