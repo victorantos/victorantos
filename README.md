@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-	- 🔭 I’m currently working on https://Sneos.com, https://ProBotly.com and https://Angjobs.com
-	- 🌱 I’m currently learning Python and exploring data science
-	- 👯 I’m looking to collaborate on AngJobs and other open-source projects
-	- 🤔 I’m looking for an interesting project/job to work on, especially in web development or machine learning
-	- 💬 Ask me about project ideas, web development, or how to start learning Python!
-	- 📫 How to reach me: victorantos@gmail.com
-	- ⚡ Fun fact: I once coded an entire project in a single weekend! 🏃‍♂️💻
+- 🔭 I'm currently building innovative web platforms: [Sneos](https://sneos.com), [ProBotly](https://probotly.com), and [AngJobs](https://angjobs.com) - each solving unique challenges in their respective domains
+- 🌱 Diving deep into Python and data science, exploring the fascinating world of machine learning and data analytics
+- 👯 Passionate about open-source collaboration! My project [AngJobs](https://angjobs.com) is open for contributors, and I'm always excited to join other meaningful open-source initiatives
+- 🤔 Seeking challenging opportunities in web development and machine learning - particularly interested in projects that combine both disciplines
+- 💬 Let's chat about web architecture, Python development, or brainstorm your next big project idea! I love helping newcomers get started in tech
+- 📫 Drop me a line at [hello@victorantos.com](mailto:hello@victorantos.com)
+- ⚡ Fun fact: I once built a complete web application in a single weekend fueled by nothing but coffee and determination! 🏃‍♂️💻
