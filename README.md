@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-	- 🔭 I’m currently working on Sneos.com, Angjobs.com
+	- 🔭 I’m currently working on https://Sneos.com, https://ProBotly.com and https://Angjobs.com
 	- 🌱 I’m currently learning Python and exploring data science
 	- 👯 I’m looking to collaborate on AngJobs and other open-source projects
 	- 🤔 I’m looking for an interesting project/job to work on, especially in web development or machine learning
