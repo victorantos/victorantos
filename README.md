@@ -2,7 +2,7 @@
 
 I craft web experiences and solutions that make a difference:
 
-- Building innovative platforms: [Sneos](https://sneos.com), [ProBotly](https://probotly.com), and [AngJobs](https://angjobs.com)
+- Building innovative platforms: [Sneos](https://sneos.com) and [AngJobs](https://angjobs.com)
 - Specializing in C# development and Blazor applications
 - Leading [AngJobs](https://angjobs.com) - an open-source project always welcoming contributors
 - Exploring the intersection of web development and machine learning
