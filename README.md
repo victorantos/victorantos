@@ -10,3 +10,17 @@ I craft web experiences and solutions that make a difference:
 - Available at [hello@victorantos.com](mailto:hello@victorantos.com)
 
 _Fun fact: Once shipped a complete web application in a weekend. Sometimes the best projects are born from intense coding sessions!_
+
+---
+
+### 🚀 Starship Flight 12 Countdown
+
+T-minus.live is getting closer — **T-10 days** and counting.
+
+- **Launch:** May 12, 2026 — 22:30 UTC
+- **Window:** May 12, 22:30 UTC → May 13, 00:43 UTC
+- **Pad:** Orbital Launch Pad 2, SpaceX Starbase, Texas
+- **Vehicle:** Starship V3 (maiden flight)
+- **Status:** To Be Confirmed
+
+Track it live at [t-minus.live](https://t-minus.live).
