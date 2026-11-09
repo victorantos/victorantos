@@ -67,13 +67,11 @@ More at [victorantos.com](https://victorantos.com), in English, German, French, 
 ## Stats
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=victorantos&show_icons=true&hide_border=true&theme=tokyonight">
-  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=victorantos&show_icons=true&hide_border=true">
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=victorantos&hide_border=true&theme=tokyonight&date_format=j%20M%5B%20Y%5D">
+  <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=victorantos&hide_border=true&date_format=j%20M%5B%20Y%5D">
 </picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=victorantos&layout=compact&hide_border=true&theme=tokyonight&langs_count=8">
-  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorantos&layout=compact&hide_border=true&langs_count=8">
-</picture>
+
+<a href="https://github.com/victorantos"><img alt="Contribution graph, last 12 months" src="https://ghchart.rshah.org/e8a13d/victorantos" width="100%"></a>
 
 ## Say hi
 
